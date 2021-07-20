@@ -19,7 +19,7 @@ Use Case: When the Transections ID (TxID) are collected via Google Forms. This s
 # How it Works
 We make a CSV file containting all the SMS from our phone. We make a loop that takes the TxIDs collected from the Google Forms and see if any word match with the TxID. If yes, the entry is added to the Match Table, otherwise it is added to the Mismatch table. Super simple, eh?
 
-
+### ``Note: The Excel & CSV files not indluded here due to privery issues with the bKash / Nagad / Rocket payment SMS which also contains phone number of sender.``
 
 
 <br>
