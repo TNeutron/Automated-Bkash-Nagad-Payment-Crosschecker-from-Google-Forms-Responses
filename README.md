@@ -58,4 +58,4 @@ We make a CSV file containting all the SMS from our phone. We make a loop that t
 <a href="https://imgur.com/QJ6hzWp"><img src="https://i.imgur.com/QJ6hzWp.png" title="source: imgur.com" /></a>
 
 
-#### *Credits: AUST Innovation & Design Club | Spring'20*
+#### *Credits: [AUST Innovation & Design Club](https://www.facebook.com/austidc) | Spring'20*
