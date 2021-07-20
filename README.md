@@ -1,4 +1,4 @@
-# Automated bKash/Nagad Payment Cross-checker (Google Forms)
+# Automated bKash/Nagad Payment Cross-checker (From Google Forms Responses)
 
 Use Case: When the Transections ID (TxID) are collected via Google Forms. This script can be used to automatically cross-check the TxIDs with the TxIDs received as SMS in bKash/Nagad accounts.
 
@@ -56,3 +56,6 @@ We make a CSV file containting all the SMS from our phone. We make a loop that t
 ## **Step 4: See Output! Check the "Match Table" and "Mismatch Table" (Only Mismatch Table Shown Here)**
 
 <a href="https://imgur.com/QJ6hzWp"><img src="https://i.imgur.com/QJ6hzWp.png" title="source: imgur.com" /></a>
+
+
+#### *Credits: AUST Innovation & Design Club | Spring'20*
